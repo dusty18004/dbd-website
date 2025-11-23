@@ -1,5 +1,5 @@
 # Dead by Daylight Website -- HTML Only
-The first assignment I turned in for my Internet Programming course at Truman State University.
+The first assignment I turned in for my Internet Programming course at Truman State University. Files are current as of 09-23-2025.
 
 ## About the Website
 This website was created as a homework assigment, and I made it about my favorite video game, Dead by Daylight. Dead by Daylight is a cat-and-mouse type of game, where four survivors must repair 5 generators to open exit gates while being hunted by a killer. It's a thriller game that I have come to love with my whole heart. The website acts as a user's guide (for survivors) for new players, although it is not as descriptive as could be -- since it was created with a deadline rather than as a fun project for myself.
